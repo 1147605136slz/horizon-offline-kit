@@ -1,0 +1,9 @@
+cache/
+*.part
+*.log
+*.jar
+*.zip
+*.exe
+.local/
+saves/
+.horizon-home/
